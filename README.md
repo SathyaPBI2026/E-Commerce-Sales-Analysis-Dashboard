@@ -12,45 +12,74 @@ The primary objective of this dashboard is to analyze sales trends, profitabilit
 
 ## Tools & Technologies Used
 •  Power BI Desktop
+
 •  Power Query
+
 •  DAX (Data Analysis Expressions)
+
 •  Data Modeling
+
 •  Excel/CSV Dataset
 
 ## Key Performance Indicators (KPIs)
 •  Total Sales Revenue
+
 •  Total Profit
+
 •  Profit Margin (%)
+
 •  Total Quantity
+
 •  Top-Selling Products
+
 •  Bottom Selling Products
+
 •  Top Performing Categories
+
 •  Regional Sales Performance
+
 •  Customer Segment Analysis
+
 ## Dashboard Features
 •  Interactive filters and slicers for dynamic analysis
+
 •  Sales and profit analysis by category 
+
 •  Region-wise performance comparison
+
 •  Yearly sales trend visualization
+
 •  Top customers and products identification
+
 •  Profitability analysis across different product categories
+
 •  Customer segmentation insights
 
 ## Dashboard 
 C:\Users\new\Desktop\POWER BI CLASS\E-Commerce sales project
 
+
 ## Business Insights
 •  Identified the highest revenue-generating product categories.
+
 •  Discovered regions contributing the highest sales and profits.
+
 •  Highlighted top customers based on revenue contribution.
+
 •  Evaluated profit margins across different product segments.
+
 
 ## Business Recommendations
 The dashboard enables business users to:
+
 •	Monitor sales performance in real time.
+
 •	Identify profitable products and categories.
+
 •	Optimize inventory and sales strategies.
+
 •	Improve customer targeting and retention efforts.
+
 •	Support data-driven decision-making.
 
 ## Conclusion
