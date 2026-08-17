@@ -56,8 +56,7 @@ The primary objective of this dashboard is to analyze sales trends, profitabilit
 •  Customer segmentation insights
 
 ## Dashboard 
-C:\Users\new\Desktop\POWER BI CLASS\E-Commerce sales project
-
+<img width="997" height="559" alt="e-commerce scr" src="https://github.com/user-attachments/assets/c06fb6e7-65fb-4498-ac80-a179e1d82649" />
 
 ## Business Insights
 •  Identified the highest revenue-generating product categories.
